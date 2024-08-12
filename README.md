@@ -1,6 +1,8 @@
 - 👋 Hi, I’m shanyujia
 - 👀 I’m interested in coding
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 **🐱 My GitHub Data** 
@@ -73,7 +75,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2024 03:16:57 UTC
+ Last Updated on 12/08/2024 03:23:58 UTC
 <!--END_SECTION:waka-->
 <!---
 eleliauk/eleliauk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
