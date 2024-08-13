@@ -21,7 +21,8 @@ eleliauk.target = function () {
 <br/>
 
 <div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eleliauk&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact"/>
+<!--   TODO为什么这个不行捏 -->
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eleliauk&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact"/> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
