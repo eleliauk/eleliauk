@@ -1,5 +1,5 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=konodioda727&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=eleliauk&label=Profile%20Visits&color=blue&style=for-the-badge)
 </em></p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ```js
@@ -14,15 +14,22 @@ eleliauk.target = function () {
     }, Infinity)
 }
 ```
+<br/>
 
 ---
+
+<br/>
 
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eleliauk&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact"/> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
+
+<br/>
+
 ---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue)
 
