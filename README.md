@@ -15,19 +15,12 @@ eleliauk.target = function () {
 }
 ```
 <br/>
-
----
-
 <br/>
-
-<div>
-  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk33&layout=compact&theme=merko&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
-
 <br/>
 
 ---
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue)
@@ -111,6 +104,15 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 12/08/2024 19:01:52 UTC
 <!--END_SECTION:waka-->
+<br/>
+
+<br/>
+
+---
+<div>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
 
 <!-- Credit -->
 ### Credit to 
