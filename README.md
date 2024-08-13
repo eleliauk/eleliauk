@@ -1,5 +1,28 @@
-- 👋 Hi, I’m shanyujia
-- 👀 I’m interested in coding
+### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=konodioda727&label=Profile%20Visits&color=blue&style=for-the-badge)
+</em></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+```js
+const FrontEndDeveloper = {};
+const eleliauk = Object.create(FrontEndDeveloper)
+eleliauk.from = '吉林长春'
+eleliauk.university = 'Central China Normal University'
+eleliauk.organization = '木犀团队'
+eleliauk.target = function () {
+    setTimeout(() => {
+        OldSecond.identity = 'A better front-end engineer'
+    }, Infinity)
+}
+```
+
+---
+
+<div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eleliauk&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code%20Time%20Stats&langs_count=10&layout=compact"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact"/> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue)
 
@@ -82,6 +105,11 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 12/08/2024 19:01:52 UTC
 <!--END_SECTION:waka-->
+
+<!-- Credit -->
+### Credit to 
+- [**MUXI-STUDIO**](https://muxi-tech.xyz/) for frontend. 
+
 <!---
 eleliauk/eleliauk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
