@@ -31,6 +31,8 @@ eleliauk.target = function () {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 243 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -100,7 +102,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2024 18:43:11 UTC
+ Last Updated on 14/08/2024 16:56:30 UTC
 <!--END_SECTION:waka-->
 <br/>
 
