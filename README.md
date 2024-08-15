@@ -23,15 +23,15 @@ eleliauk.target = function () {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-280-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 243 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,12 +97,8 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
-
-
- Last Updated on 14/08/2024 17:04:14 UTC
+ Last Updated on 15/08/2024 00:39:52 UTC
 <!--END_SECTION:waka-->
 <br/>
 
