@@ -5,14 +5,14 @@
 ```js
 const FrontEndDeveloper = {};
 const eleliauk = Object.create(FrontEndDeveloper)
-eleliauk.from = '吉林长春'
-eleliauk.university = 'Central China Normal University'
-eleliauk.organization = '木犀团队'
-eleliauk.target = function () {
-    setTimeout(() => {
-        eleliauk.identity = 'A better front-end engineer'
-    }, Infinity)
-}
+  eleliauk.from = '吉林长春'
+  eleliauk.university = 'Central China Normal University'
+  eleliauk.organization = '木犀团队'
+  eleliauk.target = function () {
+      setTimeout(() => {
+          eleliauk.identity = 'A better front-end engineer'
+      }, Infinity)
+  }
 ```
 <br/>
 <br/>
