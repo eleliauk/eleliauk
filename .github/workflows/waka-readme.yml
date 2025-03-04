@@ -17,6 +17,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
-
-      - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk@v3.3.0
