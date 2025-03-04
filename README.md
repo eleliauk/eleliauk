@@ -107,13 +107,15 @@ Vue                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br/>
 
-<br/>
-
 ---
 <div>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
+
+<br/>
+
+![snake](https://github.com/eleliauk/eleliauk/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Credit -->
 ### Credit to 
