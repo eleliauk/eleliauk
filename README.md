@@ -20,7 +20,7 @@ const eleliauk = Object.create(FrontEndDeveloper)
 
 ---
 
-
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eleliauk-g2-contributor.json)](https://github.com/antvis/g2)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2051%20mins-blue)
