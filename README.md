@@ -110,7 +110,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ---
 <div>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleliauk&layout=compact">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eleliauk&show_icons=true&include_all_commits=true"/>
 </div>
 
 <br/>
