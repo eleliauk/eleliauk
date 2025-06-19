@@ -25,13 +25,15 @@ const eleliauk = Object.create(FrontEndDeveloper)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 466 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,17 +68,16 @@ Sunday                   1554 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 mins             █████████████████████████   99.93 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               24 mins             █████████████████████████   100.00 % 
+ccnubox_rn               10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +93,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 01:16:55 UTC
+ Last Updated on 19/06/2025 01:17:35 UTC
 <!--END_SECTION:waka-->
 <br/>
 
