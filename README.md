@@ -25,7 +25,7 @@ const eleliauk = Object.create(FrontEndDeveloper)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,7 +104,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 19:15:12 UTC
+ Last Updated on 30/09/2025 19:17:18 UTC
 <!--END_SECTION:waka-->
 <br/>
 
