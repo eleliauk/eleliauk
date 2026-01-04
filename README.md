@@ -23,13 +23,15 @@ const eleliauk = Object.create(FrontEndDeveloper)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eleliauk-g2-contributor.json)](https://github.com/antvis/g2)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,6 +39,54 @@ const eleliauk = Object.create(FrontEndDeveloper)
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5858 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+🌆 Daytime                12366 commits       ██████████░░░░░░░░░░░░░░░   41.40 % 
+🌃 Evening                10117 commits       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌙 Night                  1528 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5520 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Tuesday                  4646 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                4691 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 5532 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Friday                   4519 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Saturday                 1611 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Sunday                   3350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TeX                      55 mins             ██████████░░░░░░░░░░░░░░░   41.61 % 
+Markdown                 39 mins             ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+JSON                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+BibTeX                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+
+🔥 Editors: 
+Cursor                   1 hr 17 mins        ███████████████░░░░░░░░░░   58.21 % 
+VS Code                  55 mins             ██████████░░░░░░░░░░░░░░░   41.79 % 
+
+🐱‍💻 Projects: 
+information-search       1 hr 11 mins        ██████████████░░░░░░░░░░░   54.37 % 
+PyCharmMiscProject       24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+ccnubox_rn               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+CsEduAI                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+
+💻 Operating System: 
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -54,7 +104,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 19:24:47 UTC
+ Last Updated on 04/01/2026 19:22:44 UTC
 <!--END_SECTION:waka-->
 <br/>
 
