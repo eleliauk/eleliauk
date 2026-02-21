@@ -23,7 +23,7 @@ const eleliauk = Object.create(FrontEndDeveloper)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eleliauk-g2-contributor.json)](https://github.com/antvis/g2)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -31,7 +31,7 @@ const eleliauk = Object.create(FrontEndDeveloper)
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 21 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,26 +66,30 @@ Sunday                   3434 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              ██████████████░░░░░░░░░░░   57.39 % 
+Markdown                 3 mins              █████████░░░░░░░░░░░░░░░░   36.18 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+amigo                    9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ████████████░░░░░░░░░░░░░   49.30 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               36 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
@@ -95,7 +99,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 19:53:08 UTC
+ Last Updated on 21/02/2026 19:36:12 UTC
 <!--END_SECTION:waka-->
 <br/>
 
