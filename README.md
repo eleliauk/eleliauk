@@ -23,6 +23,8 @@ const eleliauk = Object.create(FrontEndDeveloper)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eleliauk-g2-contributor.json)](https://github.com/antvis/g2)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -37,6 +39,45 @@ const eleliauk = Object.create(FrontEndDeveloper)
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9049 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+🌆 Daytime                20293 commits       ███████████░░░░░░░░░░░░░░   43.67 % 
+🌃 Evening                15112 commits       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌙 Night                  2019 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8998 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Tuesday                  7198 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                7476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 8882 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Friday                   7083 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Saturday                 2097 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Sunday                   4739 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -54,7 +95,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 20:21:57 UTC
+ Last Updated on 18/05/2026 21:00:08 UTC
 <!--END_SECTION:waka-->
 <br/>
 
