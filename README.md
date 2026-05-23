@@ -37,45 +37,6 @@ const eleliauk = Object.create(FrontEndDeveloper)
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9051 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌆 Daytime                20298 commits       ███████████░░░░░░░░░░░░░░   43.67 % 
-🌃 Evening                15117 commits       ████████░░░░░░░░░░░░░░░░░   32.52 % 
-🌙 Night                  2019 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   8998 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Tuesday                  7200 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                7479 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 8883 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   7087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 2097 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Sunday                   4741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -93,7 +54,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:59:18 UTC
+ Last Updated on 23/05/2026 20:22:31 UTC
 <!--END_SECTION:waka-->
 <br/>
 
