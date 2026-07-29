@@ -89,11 +89,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ████████████░░░░░░░░░░░░░   47.76 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               32 repos            ████████████░░░░░░░░░░░░░   48.48 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
@@ -103,7 +103,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:45:38 UTC
+ Last Updated on 29/07/2026 20:37:57 UTC
 <!--END_SECTION:waka-->
 <br/>
 
