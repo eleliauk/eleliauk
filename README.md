@@ -27,7 +27,7 @@ const eleliauk = Object.create(FrontEndDeveloper)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,7 +103,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eleliauk/eleliauk/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:36:52 UTC
+ Last Updated on 14/09/2026 22:32:51 UTC
 <!--END_SECTION:waka-->
 <br/>
 
